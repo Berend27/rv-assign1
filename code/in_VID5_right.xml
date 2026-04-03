@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<Settings>
+  <BoardSize_Width>8</BoardSize_Width>
+  <BoardSize_Height>5</BoardSize_Height>
+  <Square_Size>30</Square_Size>
+  <Marker_Size>1</Marker_Size>
+  <Calibrate_Pattern>CHESSBOARD</Calibrate_Pattern>
+  <Input>/Users/berend/RV/assign1/code/VID5_right.xml</Input>
+  <Input_FlipAroundHorizontalAxis>0</Input_FlipAroundHorizontalAxis>
+  <Input_Delay>100</Input_Delay>
+  <Calibrate_NrOfFrameToUse>29</Calibrate_NrOfFrameToUse>
+  <Calibrate_FixAspectRatio>1</Calibrate_FixAspectRatio>
+  <Calibrate_AssumeZeroTangentialDistortion>1</Calibrate_AssumeZeroTangentialDistortion>
+  <Calibrate_FixPrincipalPointAtTheCenter>1</Calibrate_FixPrincipalPointAtTheCenter>
+  <Write_DetectedFeaturePoints>0</Write_DetectedFeaturePoints>
+  <Write_extrinsicParameters>0</Write_extrinsicParameters>
+  <Write_outputFileName>/Users/berend/RV/assign1/fileoutput/out_camera_data_right.xml</Write_outputFileName>
+  <Show_UndistortedImage>1</Show_UndistortedImage>
+</Settings>
+</opencv_storage>
