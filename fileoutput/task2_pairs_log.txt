@@ -1,0 +1,101 @@
+/Users/berend/RV/assign1/data/left/picture_000000.png
+/Users/berend/RV/assign1/data/right/picture_000000.png
+Accepted pair: /Users/berend/RV/assign1/data/left/picture_000000.png | /Users/berend/RV/assign1/data/right/picture_000000.png
+/Users/berend/RV/assign1/data/left/picture_000001.png
+/Users/berend/RV/assign1/data/right/picture_000001.png
+Accepted pair: /Users/berend/RV/assign1/data/left/picture_000001.png | /Users/berend/RV/assign1/data/right/picture_000001.png
+/Users/berend/RV/assign1/data/left/picture_000002.png
+/Users/berend/RV/assign1/data/right/picture_000002.png
+Accepted pair: /Users/berend/RV/assign1/data/left/picture_000002.png | /Users/berend/RV/assign1/data/right/picture_000002.png
+/Users/berend/RV/assign1/data/left/picture_000003.png
+/Users/berend/RV/assign1/data/right/picture_000003.png
+/Users/berend/RV/assign1/data/left/picture_000004.png
+/Users/berend/RV/assign1/data/left/picture_000005.png
+/Users/berend/RV/assign1/data/left/picture_000006.png
+/Users/berend/RV/assign1/data/right/picture_000006.png
+Accepted pair: /Users/berend/RV/assign1/data/left/picture_000006.png | /Users/berend/RV/assign1/data/right/picture_000006.png
+/Users/berend/RV/assign1/data/left/picture_000007.png
+/Users/berend/RV/assign1/data/right/picture_000007.png
+Accepted pair: /Users/berend/RV/assign1/data/left/picture_000007.png | /Users/berend/RV/assign1/data/right/picture_000007.png
+/Users/berend/RV/assign1/data/left/picture_000008.png
+/Users/berend/RV/assign1/data/right/picture_000008.png
+Accepted pair: /Users/berend/RV/assign1/data/left/picture_000008.png | /Users/berend/RV/assign1/data/right/picture_000008.png
+/Users/berend/RV/assign1/data/left/picture_000009.png
+/Users/berend/RV/assign1/data/right/picture_000009.png
+Accepted pair: /Users/berend/RV/assign1/data/left/picture_000009.png | /Users/berend/RV/assign1/data/right/picture_000009.png
+/Users/berend/RV/assign1/data/left/picture_000010.png
+/Users/berend/RV/assign1/data/right/picture_000010.png
+/Users/berend/RV/assign1/data/left/picture_000011.png
+/Users/berend/RV/assign1/data/right/picture_000011.png
+/Users/berend/RV/assign1/data/left/picture_000012.png
+/Users/berend/RV/assign1/data/right/picture_000012.png
+Accepted pair: /Users/berend/RV/assign1/data/left/picture_000012.png | /Users/berend/RV/assign1/data/right/picture_000012.png
+/Users/berend/RV/assign1/data/left/picture_000013.png
+/Users/berend/RV/assign1/data/right/picture_000013.png
+Accepted pair: /Users/berend/RV/assign1/data/left/picture_000013.png | /Users/berend/RV/assign1/data/right/picture_000013.png
+/Users/berend/RV/assign1/data/left/picture_000014.png
+/Users/berend/RV/assign1/data/right/picture_000014.png
+Accepted pair: /Users/berend/RV/assign1/data/left/picture_000014.png | /Users/berend/RV/assign1/data/right/picture_000014.png
+/Users/berend/RV/assign1/data/left/picture_000015.png
+/Users/berend/RV/assign1/data/left/picture_000016.png
+/Users/berend/RV/assign1/data/right/picture_000016.png
+Accepted pair: /Users/berend/RV/assign1/data/left/picture_000016.png | /Users/berend/RV/assign1/data/right/picture_000016.png
+/Users/berend/RV/assign1/data/left/picture_000017.png
+/Users/berend/RV/assign1/data/right/picture_000017.png
+Accepted pair: /Users/berend/RV/assign1/data/left/picture_000017.png | /Users/berend/RV/assign1/data/right/picture_000017.png
+/Users/berend/RV/assign1/data/left/picture_000018.png
+/Users/berend/RV/assign1/data/right/picture_000018.png
+Accepted pair: /Users/berend/RV/assign1/data/left/picture_000018.png | /Users/berend/RV/assign1/data/right/picture_000018.png
+/Users/berend/RV/assign1/data/left/picture_000019.png
+/Users/berend/RV/assign1/data/right/picture_000019.png
+Accepted pair: /Users/berend/RV/assign1/data/left/picture_000019.png | /Users/berend/RV/assign1/data/right/picture_000019.png
+/Users/berend/RV/assign1/data/left/picture_000020.png
+/Users/berend/RV/assign1/data/right/picture_000020.png
+Accepted pair: /Users/berend/RV/assign1/data/left/picture_000020.png | /Users/berend/RV/assign1/data/right/picture_000020.png
+/Users/berend/RV/assign1/data/left/picture_000021.png
+/Users/berend/RV/assign1/data/right/picture_000021.png
+Accepted pair: /Users/berend/RV/assign1/data/left/picture_000021.png | /Users/berend/RV/assign1/data/right/picture_000021.png
+/Users/berend/RV/assign1/data/left/picture_000022.png
+/Users/berend/RV/assign1/data/right/picture_000022.png
+Accepted pair: /Users/berend/RV/assign1/data/left/picture_000022.png | /Users/berend/RV/assign1/data/right/picture_000022.png
+/Users/berend/RV/assign1/data/left/picture_000023.png
+/Users/berend/RV/assign1/data/right/picture_000023.png
+Accepted pair: /Users/berend/RV/assign1/data/left/picture_000023.png | /Users/berend/RV/assign1/data/right/picture_000023.png
+/Users/berend/RV/assign1/data/left/picture_000024.png
+/Users/berend/RV/assign1/data/right/picture_000024.png
+Accepted pair: /Users/berend/RV/assign1/data/left/picture_000024.png | /Users/berend/RV/assign1/data/right/picture_000024.png
+/Users/berend/RV/assign1/data/left/picture_000025.png
+/Users/berend/RV/assign1/data/right/picture_000025.png
+Accepted pair: /Users/berend/RV/assign1/data/left/picture_000025.png | /Users/berend/RV/assign1/data/right/picture_000025.png
+/Users/berend/RV/assign1/data/left/picture_000026.png
+/Users/berend/RV/assign1/data/right/picture_000026.png
+Accepted pair: /Users/berend/RV/assign1/data/left/picture_000026.png | /Users/berend/RV/assign1/data/right/picture_000026.png
+/Users/berend/RV/assign1/data/left/picture_000027.png
+/Users/berend/RV/assign1/data/right/picture_000027.png
+Accepted pair: /Users/berend/RV/assign1/data/left/picture_000027.png | /Users/berend/RV/assign1/data/right/picture_000027.png
+/Users/berend/RV/assign1/data/left/picture_000028.png
+/Users/berend/RV/assign1/data/right/picture_000028.png
+Accepted pair: /Users/berend/RV/assign1/data/left/picture_000028.png | /Users/berend/RV/assign1/data/right/picture_000028.png
+/Users/berend/RV/assign1/data/left/picture_000029.png
+/Users/berend/RV/assign1/data/right/picture_000029.png
+Accepted pair: /Users/berend/RV/assign1/data/left/picture_000029.png | /Users/berend/RV/assign1/data/right/picture_000029.png
+24 pairs have been successfully detected.
+Running stereo calibration ...
+done with RMS error=2.10272
+R =
+[0.9964394397272653, -0.001245003523730284, 0.08430238977774868;
+ 0.00254131523458349, 0.999880156410646, -0.01527136317100349;
+ -0.08427327377580651, 0.0154312275094403, 0.9963231867946565]
+T =
+[-121.5649898842497;
+ -0.8760350067230847;
+ 7.239961331510923]
+E =
+[0.05542731392920094, -7.252611964053148, -0.7622499108044967;
+ -3.030496661250711, 1.866883238717263, 121.7283641662807;
+ 0.56398087049579, -121.5515117661924, 1.930314953997465]
+F =
+[9.656764782216288e-09, -1.241887390912282e-06, 0.0005605820779364115;
+ -5.189214052072024e-07, 3.141845952126961e-07, 0.03357928387985756;
+ 0.0004548682065840928, -0.03200813705862114, 1]
+average epipolar err = 1.63629

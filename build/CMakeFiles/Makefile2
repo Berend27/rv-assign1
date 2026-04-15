@@ -64,10 +64,14 @@ CMAKE_BINARY_DIR = /Users/berend/RV/assign1/build
 
 # The main recursive "all" target.
 all: CMakeFiles/assign1_task1.dir/all
+all: CMakeFiles/assign1_task2.dir/all
+all: CMakeFiles/assign1_task3.dir/all
 .PHONY : all
 
 # The main recursive "codegen" target.
 codegen: CMakeFiles/assign1_task1.dir/codegen
+codegen: CMakeFiles/assign1_task2.dir/codegen
+codegen: CMakeFiles/assign1_task3.dir/codegen
 .PHONY : codegen
 
 # The main recursive "preinstall" target.
@@ -76,6 +80,8 @@ preinstall:
 
 # The main recursive "clean" target.
 clean: CMakeFiles/assign1_task1.dir/clean
+clean: CMakeFiles/assign1_task2.dir/clean
+clean: CMakeFiles/assign1_task3.dir/clean
 .PHONY : clean
 
 #=============================================================================
@@ -109,6 +115,70 @@ CMakeFiles/assign1_task1.dir/codegen:
 CMakeFiles/assign1_task1.dir/clean:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/assign1_task1.dir/build.make CMakeFiles/assign1_task1.dir/clean
 .PHONY : CMakeFiles/assign1_task1.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/assign1_task2.dir
+
+# All Build rule for target.
+CMakeFiles/assign1_task2.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/assign1_task2.dir/build.make CMakeFiles/assign1_task2.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/assign1_task2.dir/build.make CMakeFiles/assign1_task2.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/berend/RV/assign1/build/CMakeFiles --progress-num=3,4 "Built target assign1_task2"
+.PHONY : CMakeFiles/assign1_task2.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/assign1_task2.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/berend/RV/assign1/build/CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/assign1_task2.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/berend/RV/assign1/build/CMakeFiles 0
+.PHONY : CMakeFiles/assign1_task2.dir/rule
+
+# Convenience name for target.
+assign1_task2: CMakeFiles/assign1_task2.dir/rule
+.PHONY : assign1_task2
+
+# codegen rule for target.
+CMakeFiles/assign1_task2.dir/codegen:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/assign1_task2.dir/build.make CMakeFiles/assign1_task2.dir/codegen
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/berend/RV/assign1/build/CMakeFiles --progress-num=3,4 "Finished codegen for target assign1_task2"
+.PHONY : CMakeFiles/assign1_task2.dir/codegen
+
+# clean rule for target.
+CMakeFiles/assign1_task2.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/assign1_task2.dir/build.make CMakeFiles/assign1_task2.dir/clean
+.PHONY : CMakeFiles/assign1_task2.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/assign1_task3.dir
+
+# All Build rule for target.
+CMakeFiles/assign1_task3.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/assign1_task3.dir/build.make CMakeFiles/assign1_task3.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/assign1_task3.dir/build.make CMakeFiles/assign1_task3.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/berend/RV/assign1/build/CMakeFiles --progress-num=5,6 "Built target assign1_task3"
+.PHONY : CMakeFiles/assign1_task3.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/assign1_task3.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/berend/RV/assign1/build/CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/assign1_task3.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/berend/RV/assign1/build/CMakeFiles 0
+.PHONY : CMakeFiles/assign1_task3.dir/rule
+
+# Convenience name for target.
+assign1_task3: CMakeFiles/assign1_task3.dir/rule
+.PHONY : assign1_task3
+
+# codegen rule for target.
+CMakeFiles/assign1_task3.dir/codegen:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/assign1_task3.dir/build.make CMakeFiles/assign1_task3.dir/codegen
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/berend/RV/assign1/build/CMakeFiles --progress-num=5,6 "Finished codegen for target assign1_task3"
+.PHONY : CMakeFiles/assign1_task3.dir/codegen
+
+# clean rule for target.
+CMakeFiles/assign1_task3.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/assign1_task3.dir/build.make CMakeFiles/assign1_task3.dir/clean
+.PHONY : CMakeFiles/assign1_task3.dir/clean
 
 #=============================================================================
 # Special targets to cleanup operation of make.

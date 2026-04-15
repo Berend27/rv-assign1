@@ -129,6 +129,32 @@ assign1_task1/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/assign1_task1.dir/build.make CMakeFiles/assign1_task1.dir/build
 .PHONY : assign1_task1/fast
 
+#=============================================================================
+# Target rules for targets named assign1_task2
+
+# Build rule for target.
+assign1_task2: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 assign1_task2
+.PHONY : assign1_task2
+
+# fast build rule for target.
+assign1_task2/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/assign1_task2.dir/build.make CMakeFiles/assign1_task2.dir/build
+.PHONY : assign1_task2/fast
+
+#=============================================================================
+# Target rules for targets named assign1_task3
+
+# Build rule for target.
+assign1_task3: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 assign1_task3
+.PHONY : assign1_task3
+
+# fast build rule for target.
+assign1_task3/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/assign1_task3.dir/build.make CMakeFiles/assign1_task3.dir/build
+.PHONY : assign1_task3/fast
+
 code/assign1_task1.o: code/assign1_task1.cpp.o
 .PHONY : code/assign1_task1.o
 
@@ -153,6 +179,54 @@ code/assign1_task1.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/assign1_task1.dir/build.make CMakeFiles/assign1_task1.dir/code/assign1_task1.cpp.s
 .PHONY : code/assign1_task1.cpp.s
 
+code/assign1_task2.o: code/assign1_task2.cpp.o
+.PHONY : code/assign1_task2.o
+
+# target to build an object file
+code/assign1_task2.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/assign1_task2.dir/build.make CMakeFiles/assign1_task2.dir/code/assign1_task2.cpp.o
+.PHONY : code/assign1_task2.cpp.o
+
+code/assign1_task2.i: code/assign1_task2.cpp.i
+.PHONY : code/assign1_task2.i
+
+# target to preprocess a source file
+code/assign1_task2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/assign1_task2.dir/build.make CMakeFiles/assign1_task2.dir/code/assign1_task2.cpp.i
+.PHONY : code/assign1_task2.cpp.i
+
+code/assign1_task2.s: code/assign1_task2.cpp.s
+.PHONY : code/assign1_task2.s
+
+# target to generate assembly for a file
+code/assign1_task2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/assign1_task2.dir/build.make CMakeFiles/assign1_task2.dir/code/assign1_task2.cpp.s
+.PHONY : code/assign1_task2.cpp.s
+
+code/assign1_task3.o: code/assign1_task3.cpp.o
+.PHONY : code/assign1_task3.o
+
+# target to build an object file
+code/assign1_task3.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/assign1_task3.dir/build.make CMakeFiles/assign1_task3.dir/code/assign1_task3.cpp.o
+.PHONY : code/assign1_task3.cpp.o
+
+code/assign1_task3.i: code/assign1_task3.cpp.i
+.PHONY : code/assign1_task3.i
+
+# target to preprocess a source file
+code/assign1_task3.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/assign1_task3.dir/build.make CMakeFiles/assign1_task3.dir/code/assign1_task3.cpp.i
+.PHONY : code/assign1_task3.cpp.i
+
+code/assign1_task3.s: code/assign1_task3.cpp.s
+.PHONY : code/assign1_task3.s
+
+# target to generate assembly for a file
+code/assign1_task3.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/assign1_task3.dir/build.make CMakeFiles/assign1_task3.dir/code/assign1_task3.cpp.s
+.PHONY : code/assign1_task3.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -162,9 +236,17 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... assign1_task1"
+	@echo "... assign1_task2"
+	@echo "... assign1_task3"
 	@echo "... code/assign1_task1.o"
 	@echo "... code/assign1_task1.i"
 	@echo "... code/assign1_task1.s"
+	@echo "... code/assign1_task2.o"
+	@echo "... code/assign1_task2.i"
+	@echo "... code/assign1_task2.s"
+	@echo "... code/assign1_task3.o"
+	@echo "... code/assign1_task3.i"
+	@echo "... code/assign1_task3.s"
 .PHONY : help
 
 

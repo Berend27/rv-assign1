@@ -146,7 +146,7 @@ CMAKE_PROJECT_DESCRIPTION:STATIC=
 CMAKE_PROJECT_HOMEPAGE_URL:STATIC=
 
 //Value Computed by CMake
-CMAKE_PROJECT_NAME:STATIC=assign1_task1
+CMAKE_PROJECT_NAME:STATIC=assign1
 
 //Path to a program.
 CMAKE_RANLIB:FILEPATH=/usr/bin/ranlib
@@ -205,7 +205,7 @@ CMAKE_STATIC_LINKER_FLAGS_RELWITHDEBINFO:STRING=
 CMAKE_STRIP:FILEPATH=/usr/bin/strip
 
 //Path to a program.
-CMAKE_TAPI:FILEPATH=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/tapi
+CMAKE_TAPI:FILEPATH=/Library/Developer/CommandLineTools/usr/bin/tapi
 
 //If this value is on, makefiles will be generated without the
 // .SILENT directive, and all commands will be echoed to the console
@@ -217,13 +217,13 @@ CMAKE_VERBOSE_MAKEFILE:BOOL=FALSE
 OpenCV_DIR:PATH=/usr/local/lib/cmake/opencv4
 
 //Value Computed by CMake
-assign1_task1_BINARY_DIR:STATIC=/Users/berend/RV/assign1/build
+assign1_BINARY_DIR:STATIC=/Users/berend/RV/assign1/build
 
 //Value Computed by CMake
-assign1_task1_IS_TOP_LEVEL:STATIC=ON
+assign1_IS_TOP_LEVEL:STATIC=ON
 
 //Value Computed by CMake
-assign1_task1_SOURCE_DIR:STATIC=/Users/berend/RV/assign1
+assign1_SOURCE_DIR:STATIC=/Users/berend/RV/assign1
 
 
 ########################

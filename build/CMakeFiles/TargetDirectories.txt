@@ -1,3 +1,5 @@
 /Users/berend/RV/assign1/build/CMakeFiles/assign1_task1.dir
+/Users/berend/RV/assign1/build/CMakeFiles/assign1_task2.dir
+/Users/berend/RV/assign1/build/CMakeFiles/assign1_task3.dir
 /Users/berend/RV/assign1/build/CMakeFiles/edit_cache.dir
 /Users/berend/RV/assign1/build/CMakeFiles/rebuild_cache.dir
